@@ -1,5 +1,5 @@
 # 동기 - 비동기
-2021.08.11
+last update 2021.08.11
 * * *
 ##### 참고사이트
 + https://it-eldorado.tistory.com/159
